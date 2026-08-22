@@ -1,0 +1,48 @@
+============================================================
+                    SALES PERFORMANCE REPORT                    
+============================================================
+Generated on: 2026-08-22 21:41:05
+Data source: sales_data.csv
+------------------------------------------------------------
+
+[1] KEY PERFORMANCE INDICATORS
+  - Total Transactions:  25
+  - Total Units Sold:    358
+  - Total Revenue:       $12,730.00
+  - Total Net Profit:    $7,241.00
+  - Average Order Value: $509.20
+  - Profit Margin:       56.88%
+------------------------------------------------------------
+
+[2] PERFORMANCE BY PRODUCT CATEGORY
+  Category             |   Qty |      Revenue |       Profit
+  ------------------------------------------------------
+  Home & Kitchen       |    88 | $   3,670.00 | $   1,986.00
+  Apparel              |    99 | $   3,580.00 | $   2,103.00
+  Electronics          |    64 | $   3,470.00 | $   1,926.00
+  Books                |   107 | $   2,010.00 | $   1,226.00
+------------------------------------------------------------
+
+[3] TOP PERFORMING PRODUCTS (Revenue)
+  1. Running Shoes                  | $1,200.00
+  2. Wireless Earbuds               | $1,080.00
+  3. Office Chair                   | $900.00
+
+[4] TOP PERFORMING PRODUCTS (Volume / Quantity)
+  1. Mechanical Pencil Set          | 40 units
+  2. Notebook (5-Pack)              | 35 units
+  3. T-Shirt                        | 30 units
+------------------------------------------------------------
+
+[5] MONTHLY REVENUE TRENDS
+  Month      | Monthly Revenue | Visual Trend (Scaled)
+  ------------------------------------------------------
+  2026-01    | $        765.00 | #####
+  2026-02    | $      2,710.00 | ####################
+  2026-03    | $      1,230.00 | #########
+  2026-04    | $      1,980.00 | ##############
+  2026-05    | $      1,580.00 | ###########
+  2026-06    | $      1,590.00 | ###########
+  2026-07    | $      1,505.00 | ###########
+  2026-08    | $      1,370.00 | ##########
+============================================================
